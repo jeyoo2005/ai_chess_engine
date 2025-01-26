@@ -34,6 +34,6 @@ This project is a **Python-based chess game** featuring a graphical user interfa
 ### Cloning the Repository
 To set up the project locally, use the following commands:
 ```bash
-git clone https://github.com//
+git clone https://github.com/jeyoo2005/ai_chess_engine
 cd chess-engine
 python main.py
